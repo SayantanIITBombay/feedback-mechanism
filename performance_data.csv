@@ -1,0 +1,11 @@
+user_id,user_name,ML_completion,DL_completion,Quant_completion,SQL_completion,Python_completion,weekly_tests,weekly_test_marks,sectional_tests,sectional_test_marks,month,week
+1,Alice,80,75,85,80,90,10,85,4,80,8,2
+2,Bob,90,85,90,88,92,12,90,5,85,8,2
+3,Charlie,70,65,75,70,80,8,78,3,70,8,2
+4,David,85,80,88,85,88,11,84,4,78,8,2
+5,Eva,88,82,85,84,89,10,87,4,82,8,2
+6,Frank,76,70,80,75,82,9,80,3,75,8,2
+7,Grace,95,90,95,92,95,13,91,5,90,8,2
+8,Hannah,89,83,87,89,91,12,88,4,85,8,2
+9,Ivy,78,72,77,76,79,10,77,3,72,8,2
+10,Jack,92,87,90,86,93,11,89,5,88,8,2
